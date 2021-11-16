@@ -1,5 +1,7 @@
 # Q2A HTML Emails
 
+Warning: You need to modify one q2a core file.
+
 ## Steps to enable
 
 1. put qa-lang-emails.php file in your language folder, if you are using default language than put it in en-GB and change language to en-GB.
