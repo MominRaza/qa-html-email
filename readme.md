@@ -18,3 +18,10 @@ Warning: You need to modify one q2a core file.
    ```
 
 1. thats it.
+
+## Screenshots
+
+<img src="https://www.question2answer.org/qa/?qa=blob&qa_blobid=17352717302812111123" width="300"/>
+<img src="https://www.question2answer.org/qa/?qa=blob&qa_blobid=5858666568097839207" width="300"/>
+<img src="https://www.question2answer.org/qa/?qa=blob&qa_blobid=8349372481078358750" width="300"/>
+<img src="https://www.question2answer.org/qa/?qa=blob&qa_blobid=17033560463985820869" width="300"/>
